@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<metadata>
+  <document uri="file:///etc/vsftpd.conf" atime="1747961915094">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="0"/>
+  </document>
+  <document uri="file:///home/guest/wordpress/wp-config-sample.php" atime="1747355685149">
+    <entry key="gedit-position" value="0"/>
+  </document>
+  <document uri="file:///etc/apache2/sites-available/000.default.conf" atime="1747962365407">
+    <entry key="gedit-position" value="0"/>
+  </document>
+  <document uri="file:///etc/modsecurity/crs/crs-setup.conf" atime="1747965694048">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="5594"/>
+  </document>
+  <document uri="file:///var/www/html/wp-config-sample.php" atime="1747961777745">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="787"/>
+  </document>
+  <document uri="file:///etc/fstab" atime="1746150600867">
+    <entry key="gedit-position" value="0"/>
+  </document>
+  <document uri="file:///etc/apache2/conf-enabled/security.conf" atime="1747962520607">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="0"/>
+  </document>
+  <document uri="file:///etc/apache2/000.default.conf" atime="1747358298807">
+    <entry key="gedit-position" value="0"/>
+  </document>
+  <document uri="file:///etc/apache2/apache2.conf" atime="1747962929155">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="5730"/>
+  </document>
+  <document uri="file:///etc/apache2/sites-available/000-default.conf" atime="1747962414461">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="906"/>
+  </document>
+  <document uri="file:///etc/php/7.4/apache2/php.ini" atime="1747962756851">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="34342"/>
+  </document>
+  <document uri="file:///root/shell_logs/git_upload.sh" atime="1744936418294">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="130"/>
+  </document>
+  <document uri="file:///etc/modsecurity/modsecurity.conf" atime="1747965732360">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="261"/>
+  </document>
+  <document uri="file:///var/www/index.html" atime="1747358438416">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+    <entry key="gedit-position" value="34"/>
+  </document>
+  <document uri="file:///etc/apache2/mods-enabled/security2.conf" atime="1747965656997">
+    <entry key="gedit-encoding" value="UTF-8"/>
+    <entry key="gedit-spell-language" value="en_US"/>
+  </document>
+</metadata>
